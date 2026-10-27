@@ -93,7 +93,7 @@ basic/
 |---|---|---:|
 | Name Formatting | Correctly removes unnecessary whitespace, removes the comma, reorders the first and last name, and applies appropriate capitalization. | 3 |
 | Title Formatting | Correctly removes the unwanted punctuation and whitespace and formats the result using title capitalization. | 4 |
-| List Formatting | Correctly separates the comma-separated items, converts them to uppercase, and joins them using ` | `. | 3 |
+| List Formatting | Correctly separates the comma-separated items, converts them to uppercase, and joins them using ` \| `. | 3 |
 | Number Processing | Correctly cleans and separates the numeric values, converts them to integers, and calculates the total and average. | 4 |
 | Appropriate String Processing | Uses appropriate string methods and numeric conversion to process `string_to_process` rather than manually replacing it with the expected result. | 2 |
 |  | **Total** | **16** |
